@@ -1,2 +1,2 @@
 # CalmCorner
-A mental health website
+Mental health website
